@@ -68,3 +68,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Weather App
+
+## Description
+A weather application built with React that allows users to fetch and display current weather information for any location. It features dark mode, displays additional weather details, and provides an intuitive user interface.
+
+## Features
+- Fetch current weather data for any location.
+- Display temperature, date, time, and weather description.
+- Dark mode toggle functionality.
+- Additional weather details such as humidity and wind speed.
+- Responsive design for desktop, tablet, and mobile devices.
+
+## Technologies Used
+- React
+- Axios
+- Open Weather API
+
+## Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YugandharGubbala/open-weather.git
+   cd weather-app
